@@ -1,0 +1,11 @@
+{
+  "groups": [
+    {
+      "name": "Fish",
+      "type": "hu.Lelesz2.FishProperty",
+      "sourceType": "hu.Lelesz2.FishProperty"
+    }
+  ],
+  "properties": [],
+  "hints": []
+}
